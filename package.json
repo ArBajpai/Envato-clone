@@ -12,7 +12,8 @@
   "dependencies": {
     "jquery-ui-dist": "^1.13.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-script-tag": "^1.1.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
